@@ -1,7 +1,3 @@
-Certainly, Vidheesh! Here’s a structured and visually appealing **`README.md`** template that you can use for your project:
-
----
-
 # AUTOMATIC DATA PREPROCESSING AND CLEANING
 
 This repository provides a tool for automating the preprocessing and cleaning of datasets, coupled with an interactive dashboard for visualization and insights. It’s designed to make data handling intuitive and efficient.
