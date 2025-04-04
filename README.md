@@ -4,12 +4,6 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-# SCATTER PLOT 
-![image](https://github.com/user-attachments/assets/930caef0-52f7-417d-aff0-6e798e8f1421)
-
-# BOX PLOT
-![image](https://github.com/user-attachments/assets/d3efd5c1-837a-4c6e-9c42-e551c9e9153e)
-
 # DASHBOARD
 <img width="951" alt="image" src="https://github.com/user-attachments/assets/c9231aa8-9c18-477e-b5e9-2676c8a49fe2" />
 
