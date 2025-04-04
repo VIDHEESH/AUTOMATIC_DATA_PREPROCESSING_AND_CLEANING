@@ -8,8 +8,8 @@ This repository provides a tool for automating the preprocessing and cleaning of
 
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
-   cd <repository-directory>
+   git clone [<repository-link>](https://github.com/VIDHEESH/AUTOMATIC_DATA_PREPROCESSING_AND_CLEANING.git)
+   cd AUTOMATIC_DATA_PREPROCESSING_AND_CLEANING
    ```
 2. Install the required dependencies:
    ```bash
